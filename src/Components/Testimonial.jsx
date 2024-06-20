@@ -12,14 +12,14 @@ function testimonial() {
             <div className="row">
                 <div className="col-lg-4">
                     <div className="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <img className="img-fluid rounded-circle mb-3" src="src/assets/img/testimonials-1.jpg" alt="..."  />
+                    <img src={image4} className="img-fluid rounded-circle mb-3" alt="Margaret E." />
                         <h5>Margaret E.</h5>
                         <p className="font-weight-light mb-0">"This is fantastic! Thanks so much guys!"</p>
                     </div>
                 </div>
                 <div className="col-lg-4">
                     <div className="testimonial-item mx-auto mb-5 mb-lg-0">
-                        <img className="img-fluid rounded-circle mb-3" src="src/assets/img/testimonials-2.jpg" alt="..." /> 
+                    <img src={image5} className="img-fluid rounded-circle mb-3" alt="Margaret E." />
                         <h5>Fred S.</h5>
                         <p className="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
                     </div>
@@ -27,7 +27,7 @@ function testimonial() {
                 <div className="col-lg-4">
                     <div className="testimonial-item mx-auto mb-5 mb-lg-0">
                         
-                    <img className="img-fluid rounded-circle mb-3" src="src/assets/img/testimonials-3.jpg" alt="..." />
+                    <img src={image6} className="img-fluid rounded-circle mb-3" alt="Margaret E." />
                         <h5>Sarah W.</h5>
                         <p className="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
                     </div>
